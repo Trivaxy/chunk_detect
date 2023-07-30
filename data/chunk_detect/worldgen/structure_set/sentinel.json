@@ -1,0 +1,15 @@
+{
+    "structures": [
+        {
+            "structure": "chunk_detect:sentinel",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "salt": 1702372387,
+        "spread_type": "linear",
+        "spacing": 1,
+        "separation": 0
+    }
+}
